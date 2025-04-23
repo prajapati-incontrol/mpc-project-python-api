@@ -14,6 +14,7 @@ shareable-project-reports-msc
 ```
 
 - MPC: Model Predictive Control
+- ML4GD: Machine Learning for Graph Data
 - Each course folder includes:
   - `report.pdf` – The final project report.
   - `code/` – All code files and scripts used in the project.
