@@ -1,2 +1,21 @@
-# mpc-project-python-api
-This repository is a python implementation for my MPC project on *Secondary control for an Interconnected Power System using Model Predictive Control*
+# Shareable Project Reports 
+This repository contains all the shareable project reports. These projects are free of any conflicts of interest and are meant to be shared for educational and reference purposes.
+
+## Structure 
+
+```
+shareable-project-reports-msc
+├── README.md
+├── MPC/
+│   ├── report.pdf
+│   └── code/
+├── ML4GD/
+│   ├── report.pdf
+```
+
+- MPC: Model Predictive Control
+- Each course folder includes:
+  - `report.pdf` – The final project report.
+  - `code/` – All code files and scripts used in the project.
+
+
