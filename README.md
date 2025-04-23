@@ -6,6 +6,8 @@ This repository contains all the shareable project reports. These projects are f
 ```
 shareable-project-reports-msc
 ├── README.md
+├── IPSC/
+|   ├── report.pdf
 ├── MPC/
 │   ├── report.pdf
 │   └── code/
