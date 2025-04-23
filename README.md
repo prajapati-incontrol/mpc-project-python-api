@@ -19,6 +19,6 @@ shareable-project-reports-msc
 - ML4GD: Machine Learning for Graph Data
 - Each course folder includes:
   - `report.pdf` – The final project report.
-  - `code/` – All code files and scripts used in the project.
+  - (optional) `code/` – All code files and scripts used in the project.
 
 
